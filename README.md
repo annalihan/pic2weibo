@@ -1,2 +1,2 @@
 # pic2weibo
-Chrome plugin for upload pic to weibo
+Chrome extension for upload pic to weibo
